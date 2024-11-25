@@ -1,0 +1,20 @@
+create react project 
+step 1:npm init 
+step 2:react install taliwind css
+step 3:install package
+	1.npm install jeson-server
+	2.npm install axios
+	3.npm install react-router-dom
+step 4: download the file in GitHub
+step 5: replace the src folder 
+
+
+step 6 :Open the terminal and run this comment :
+	
+npx json-server Jsonserver/Data.json --watch --port 5000
+
+step 7 :open another terminal run this comment:
+
+npm start
+
+project video is attached 

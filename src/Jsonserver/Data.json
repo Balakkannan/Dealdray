@@ -1,0 +1,82 @@
+{
+  "Empolyee": [
+    {
+      "id": "18c7",
+      "empName": "balakkannan",
+      "empEmail": "balakkannan333@gmail.com",
+      "empMobile": "8508683766",
+      "empDesignation": "Manager",
+      "empGender": "Male",
+      "empCourse": [
+        "BSC"
+      ],
+      "empImg": "blob:http://localhost:3000/f3a42b15-dc5c-4a85-a7f0-61fa8d41a052",
+      "createDate": "25-11-24"
+    },
+    {
+      "id": "2120",
+      "empName": "kumar",
+      "empEmail": "kumar@gmailcom",
+      "empMobile": "8899776655",
+      "empDesignation": "Hr",
+      "empGender": "Male",
+      "empCourse": [
+        "MCA"
+      ],
+      "empImg": "blob:http://localhost:3000/9d892447-cc0f-4022-a863-56a128739280",
+      "createDate": "25-11-24"
+    },
+    {
+      "id": "61d7",
+      "empName": "ram",
+      "empEmail": "ram333@gmail.com",
+      "empMobile": "8838776655",
+      "empDesignation": "Sales",
+      "empGender": "Male",
+      "empCourse": [
+        "BCA"
+      ],
+      "empImg": "blob:http://localhost:3000/b8f8164c-b36f-4588-a543-713cf3f17c93",
+      "createDate": "25-11-24"
+    },
+    {
+      "id": "cb23",
+      "empName": "gowtham",
+      "empEmail": "gowtham@gmail.com",
+      "empMobile": "6677889955",
+      "empDesignation": "Sales",
+      "empGender": "Male",
+      "empCourse": [
+        "BSC"
+      ],
+      "empImg": "blob:http://localhost:3000/907fdd6c-fdbd-4a50-889e-b837449cb13a",
+      "createDate": "25-11-24"
+    },
+    {
+      "empName": "kannan",
+      "empEmail": "kannanking8888@gmail.com",
+      "empMobile": "8508683744",
+      "empDesignation": "Manager",
+      "empGender": "Male",
+      "empCourse": [
+        "MCA"
+      ],
+      "empImg": "blob:http://localhost:3000/717f7b77-4e11-4960-a7ac-8a984da62b3f",
+      "createDate": "25-11-24",
+      "id": "43a0"
+    },
+    {
+      "empName": "gowthamram",
+      "empEmail": "gowthamran@gmail.com",
+      "empMobile": "9976583443",
+      "empDesignation": "Hr",
+      "empGender": "Male",
+      "empCourse": [
+        "MCA"
+      ],
+      "empImg": "blob:http://localhost:3000/cef2f05c-e3ac-44eb-9330-71ce4ea3b0ec",
+      "createDate": "25-11-24",
+      "id": "0dde"
+    }
+  ]
+}
